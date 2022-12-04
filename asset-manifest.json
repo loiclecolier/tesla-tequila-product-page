@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.627b1c73.css",
-    "main.js": "/static/js/main.aac42cd1.js",
-    "static/media/tesla_tequila.glb": "/static/media/tesla_tequila.1e01a1625b7cdabe7211.glb",
-    "static/media/poster-tesla-tequila.png": "/static/media/poster-tesla-tequila.59cc5798f2a9b7ff489f.png",
-    "static/media/agave-icon.svg": "/static/media/agave-icon.5adf85f128366846390f3589b688620c.svg",
-    "static/media/mexico-icon.svg": "/static/media/mexico-icon.116d95d3b693d63c7c02bcb1b5c551b0.svg",
-    "static/media/shop-icon.svg": "/static/media/shop-icon.b3403fae210326e7561d8f0225ec9971.svg",
-    "static/media/tesla-logo.svg": "/static/media/tesla-logo.bded8d168a4015915c8eed1d579544c3.svg",
-    "static/media/flash-stroke-icon.svg": "/static/media/flash-stroke-icon.83e213c861adfb3cae3a7a781eba9bc5.svg",
-    "static/media/account-icon.svg": "/static/media/account-icon.d85e5274388a18468e5122c3c6efc7d4.svg",
-    "static/media/flash-fill-icon.svg": "/static/media/flash-fill-icon.9b42307e955e18c1bc0f25595460cead.svg",
-    "static/media/flash-icon.svg": "/static/media/flash-icon.98f8d944498c32294ea3996c495068ff.svg",
-    "index.html": "/index.html",
-    "main.627b1c73.css.map": "/static/css/main.627b1c73.css.map",
-    "main.aac42cd1.js.map": "/static/js/main.aac42cd1.js.map"
+    "main.css": "/tesla-tequila-product-page/static/css/main.627b1c73.css",
+    "main.js": "/tesla-tequila-product-page/static/js/main.4fa73d09.js",
+    "static/media/tesla_tequila.glb": "/tesla-tequila-product-page/static/media/tesla_tequila.1e01a1625b7cdabe7211.glb",
+    "static/media/poster-tesla-tequila.png": "/tesla-tequila-product-page/static/media/poster-tesla-tequila.59cc5798f2a9b7ff489f.png",
+    "static/media/agave-icon.svg": "/tesla-tequila-product-page/static/media/agave-icon.5adf85f128366846390f3589b688620c.svg",
+    "static/media/mexico-icon.svg": "/tesla-tequila-product-page/static/media/mexico-icon.116d95d3b693d63c7c02bcb1b5c551b0.svg",
+    "static/media/shop-icon.svg": "/tesla-tequila-product-page/static/media/shop-icon.b3403fae210326e7561d8f0225ec9971.svg",
+    "static/media/tesla-logo.svg": "/tesla-tequila-product-page/static/media/tesla-logo.bded8d168a4015915c8eed1d579544c3.svg",
+    "static/media/flash-stroke-icon.svg": "/tesla-tequila-product-page/static/media/flash-stroke-icon.83e213c861adfb3cae3a7a781eba9bc5.svg",
+    "static/media/account-icon.svg": "/tesla-tequila-product-page/static/media/account-icon.d85e5274388a18468e5122c3c6efc7d4.svg",
+    "static/media/flash-fill-icon.svg": "/tesla-tequila-product-page/static/media/flash-fill-icon.9b42307e955e18c1bc0f25595460cead.svg",
+    "static/media/flash-icon.svg": "/tesla-tequila-product-page/static/media/flash-icon.98f8d944498c32294ea3996c495068ff.svg",
+    "index.html": "/tesla-tequila-product-page/index.html",
+    "main.627b1c73.css.map": "/tesla-tequila-product-page/static/css/main.627b1c73.css.map",
+    "main.4fa73d09.js.map": "/tesla-tequila-product-page/static/js/main.4fa73d09.js.map"
   },
   "entrypoints": [
     "static/css/main.627b1c73.css",
-    "static/js/main.aac42cd1.js"
+    "static/js/main.4fa73d09.js"
   ]
 }
