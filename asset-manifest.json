@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tesla-tequila-product-page/static/css/main.a5052835.css",
+    "main.css": "/tesla-tequila-product-page/static/css/main.e54e14e5.css",
     "main.js": "/tesla-tequila-product-page/static/js/main.6aa7a62e.js",
     "static/media/tesla_tequila.glb": "/tesla-tequila-product-page/static/media/tesla_tequila.1e01a1625b7cdabe7211.glb",
     "static/media/poster-tesla-tequila.png": "/tesla-tequila-product-page/static/media/poster-tesla-tequila.59cc5798f2a9b7ff489f.png",
@@ -13,11 +13,11 @@
     "static/media/flash-fill-icon.svg": "/tesla-tequila-product-page/static/media/flash-fill-icon.9b42307e955e18c1bc0f25595460cead.svg",
     "static/media/flash-icon.svg": "/tesla-tequila-product-page/static/media/flash-icon.98f8d944498c32294ea3996c495068ff.svg",
     "index.html": "/tesla-tequila-product-page/index.html",
-    "main.a5052835.css.map": "/tesla-tequila-product-page/static/css/main.a5052835.css.map",
+    "main.e54e14e5.css.map": "/tesla-tequila-product-page/static/css/main.e54e14e5.css.map",
     "main.6aa7a62e.js.map": "/tesla-tequila-product-page/static/js/main.6aa7a62e.js.map"
   },
   "entrypoints": [
-    "static/css/main.a5052835.css",
+    "static/css/main.e54e14e5.css",
     "static/js/main.6aa7a62e.js"
   ]
 }
