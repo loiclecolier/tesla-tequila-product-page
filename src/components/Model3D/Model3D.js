@@ -7,8 +7,9 @@ export const Model3D = () => {
     <div className="model-3d">
       <model-viewer
         alt="Tesla Tequila"
-        src={TeslaTequila3D}
+        loading="eager"
         poster={PosterTeslaTequila}
+        src={TeslaTequila3D}
         shadow-intensity="1"
         camera-controls
         touch-action="pan-y"
