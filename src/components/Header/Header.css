@@ -1,0 +1,46 @@
+.header {
+  padding: 2.5rem 4.5rem;
+  width: 100%;
+  position: fixed;
+  display: flex;
+  justify-content: space-between;
+  z-index: 10;
+}
+
+.logo {
+  width: 12.5rem;
+  cursor: pointer;
+}
+
+.menu {
+  display: flex;
+  gap: 4rem;
+}
+
+.menu-item {
+  position: relative;
+  cursor: pointer;
+}
+
+.menu-icon {
+  width: 2rem;
+}
+
+.menu-icon-number {
+  position: absolute;
+  bottom: 0.2rem;
+  right: -1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #d88665;
+  font-size: 1.2rem;
+  font-weight: bold;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 100%;
+}
+
+.menu-item:nth-child(2) .menu-icon {
+  width: 2.4rem;
+}

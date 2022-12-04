@@ -1,0 +1,82 @@
+.right-description {
+  width: 25%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  z-index: 9;
+}
+
+.top-description {
+  width: fit-content;
+  border: 2px solid #000;
+  border-radius: 3px;
+  padding: 1.8rem 3.5rem 3rem;
+}
+
+.top-desc-element {
+  display: flex;
+  align-items: flex-end;
+}
+
+.top-desc-element span {
+  display: block;
+  margin-left: 1.5rem;
+  transform: translateY(-0.3rem);
+  text-transform: uppercase;
+}
+
+.top-desc-element img {
+  width: 4rem;
+}
+
+.top-desc-element:first-child {
+  margin-bottom: 3rem;
+}
+
+.container-bar:first-child {
+  margin-bottom: 5rem;
+}
+
+.container-progress-bar {
+  position: relative;
+}
+
+.bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  height: 5px;
+}
+
+.progress-bar {
+  background-color: #D88665;
+  width: 250px;
+}
+
+.progress-bar-bg {
+  width: 250px;
+  background-color: #D88665;
+  opacity: 0.5;
+}
+
+.progress-bar.black {
+  background-color: #000;
+}
+
+.progress-bar-bg.black {
+  background-color: #000;
+  opacity: 0.5;
+}
+
+@media screen and (max-width: 1024px) {
+  .right-description {
+    width: 100%;
+    margin-top: 10rem;
+    padding: 0 10rem;
+  }
+  
+  .container-bar {
+    margin: 5rem 0 10rem;
+  }
+}
